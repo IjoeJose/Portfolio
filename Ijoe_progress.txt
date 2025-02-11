@@ -1,0 +1,30 @@
+day 1: 06/02/2025
+learned:
+*New css styles
+*login page creating
+implemented:
+*New css styles
+*login page creating
+challenges: css styles
+
+day2: 07/02/2025
+learned:
+*mixed frame
+*css styles
+implemented:
+*mixed frame
+*css styles
+challenges: css styles
+day3: 08/02/2025
+learned: navigation bar creating
+*css styles
+implemented:
+* navigation bar creating
+*css styles
+challenges:css styles
+day 4: 09/02/2025
+learned:
+*css styles
+implemented:
+*css styles
+challenges: css styles
